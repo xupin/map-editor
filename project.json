@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.10",
+  "name": "map-editor",
+  "id": "a429cd21-08e0-457c-9c61-1e63d4e4f88b",
+  "isNew": false
+}
